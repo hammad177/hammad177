@@ -12,8 +12,8 @@ Here are some of the technical skills that I bring to the table as a Full Stack 
 
 ## Front-end Development
 
-- HTML, CSS, and JavaScript
-- React or Angular
+- HTML, CSS, and JavaScript or TypeScript
+- React, React Native or Angular
 - Redux, Context API, or other state management libraries
 - Webpack, Parcel, or other bundlers
 - CSS preprocessors, such as Sass 
@@ -23,7 +23,7 @@ Here are some of the technical skills that I bring to the table as a Full Stack 
 
 ## Back-end Development
 
-- Node.js and Express.js
+- Node.js, Express.js and Nest.js
 - RESTful API design and implementation
 - Authentication and authorization using OAuth, JWT, or other methods
 - Relational and NoSQL databases, such as MongoDB, PostgreSQL, or MySQL
