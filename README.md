@@ -1,7 +1,7 @@
 # Hi there, I'm Hammad Shaukat 👋
 
 ## 🚀 About Me
-I am a results-oriented Full Stack Engineer with over 2+ years of experience in developing robust and scalable web and mobile applications. My expertise spans both front-end and back-end technologies, allowing me to create seamless and user-friendly solutions. Passionate about adopting the latest technologies, I have successfully integrated AWS services like Cognito, SNS, Lambda, Amplify, and S3 into various projects. Additionally, I have experience in IoT device integration, enabling real-time tracking, analytics, and dashboard visualization through MQTT and WebSockets.
+I am a results-oriented Full Stack Engineer with over 2.5+ years of experience in developing robust and scalable web and mobile applications. My expertise spans both front-end and back-end technologies, allowing me to create seamless and user-friendly solutions. Passionate about adopting the latest technologies, I have successfully integrated AWS services like Cognito, SNS, Lambda, Amplify, and S3 into various projects. Additionally, I have experience in IoT device integration, enabling real-time tracking, analytics, and dashboard visualization through MQTT and WebSockets.
 
 ## 🛠 Skills
 Here's a snapshot of my technical skills:
@@ -9,7 +9,7 @@ Here's a snapshot of my technical skills:
 ### Front-end Development
 - HTML, CSS, and JavaScript/TypeScript
 - React, React Native, and Angular
-- State management with Redux, Context API, etc.
+- State management with Redux toolkit, Context API, etc.
 - Bundlers: Webpack, Parcel
 - CSS preprocessors, such as Sass
 - Responsive design and mobile-first development
@@ -19,7 +19,7 @@ Here's a snapshot of my technical skills:
 - Node.js, Express.js, and Nest.js
 - RESTful API design and implementation
 - Authentication and authorization using OAuth, JWT, etc.
-- Relational and NoSQL databases: MongoDB, PostgreSQL, MySQL
+- Relational and NoSQL databases: MongoDB, DynamoDB PostgreSQL, MySQL
 - WebSocket and Socket.io
 
 ### Cloud Services
