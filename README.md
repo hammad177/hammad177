@@ -1,7 +1,7 @@
 # Hi there, I'm Hammad Shaukat 👋
 
 ## 🚀 About Me
-I am a results-oriented Full Stack Engineer with over 3+ years of experience developing robust and scalable Web and Mobile Applications. My expertise spans Frontend and Backend technologies, allowing me to create seamless and user-friendly solutions. Passionate about adopting the latest technologies, I have successfully integrated AWS services like Cognito, SNS, Lambda, Amplify, and S3 into various projects. Additionally, I have experience in IoT device integration, enabling real-time tracking, analytics, and dashboard visualization through MQTT and WebSockets.
+I am a results-oriented Full Stack Engineer with over 4 years of experience developing robust and scalable Web and Mobile Applications. My expertise spans Frontend and Backend technologies, allowing me to create seamless and user-friendly solutions. Passionate about adopting the latest technologies, I have successfully integrated AWS services like Cognito, SNS, Lambda, Amplify, and S3 into various projects. Additionally, I have experience in IoT device integration, enabling real-time tracking, analytics, and dashboard visualization through MQTT and WebSockets.
 
 ## 🛠 Skills
 Here's a snapshot of my technical skills:
